@@ -1,0 +1,41 @@
+.section-a {
+    height: 75px;
+    width: 480px;
+    line-height: 75px;
+}
+
+.section-b {
+    height: 150px;
+    width: 480px;
+    line-height: 150px;
+}
+
+.section-c,
+.section-d {
+    height: 125px;
+    width: 480px;
+    line-height: 125px;
+}
+
+.section-ef,
+.section-gh {
+    height: 250px;
+    width: 480px;
+    line-height: 250px;
+}
+
+.div-e,
+.div-f,
+.div-g,
+.giv-h {
+    float: left;
+    height: 250px;
+    width: 239px;
+    line-height: 250px;
+}
+
+.section-i {
+    height: 80px;
+    width: 480px;
+    line-height: 80px;
+}
