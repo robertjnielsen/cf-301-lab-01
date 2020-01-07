@@ -33,3 +33,41 @@
 .section-i {
     background-color: brown;
 }
+
+@media (min-width: 768px) {
+    .section-a {
+        background-color: maroon;
+    }
+    
+    .section-b {
+        background-color: brown;
+    }
+    
+    .section-c {
+        background-color: yellow;
+    }
+    
+    .section-d {
+        background-color: white;
+    }
+    
+    .div-e {
+        background-color: lightblue;
+    }
+    
+    .div-f {
+        background-color: lime;
+    }
+    
+    .div-g {
+        background-color: lightcoral;
+    }
+    
+    .div-h {
+        background-color: lightslategray;
+    }
+    
+    .section-i {
+        background-color: midnightblue;
+    }
+}
